@@ -73,15 +73,12 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vlasosik&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="vlasosik" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vlasosik&theme=github_dark" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vlasosik&theme=github_dark" alt="Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vlasosik&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="vlasosik" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vlasosik&theme=tokyonight&hide_border=true" alt="vlasosik" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vlasosik&theme=github_dark" alt="Profile Details" />
 </p>
 
 ---
